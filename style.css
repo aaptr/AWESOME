@@ -1,0 +1,38 @@
+header {
+    width: 1170px;
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 40;
+    color: #242424;
+
+}
+
+.why {
+    width: 1170px;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+h4 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15;
+    color: #242424;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15;
+    color: #000000;
+}
+
+div {
+    float: left;
+    width: 360px
+}
